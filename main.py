@@ -1,4 +1,6 @@
-import os, json
+import json
+import os
+
 from fastapi import FastAPI, UploadFile, HTTPException
 from starlette.responses import FileResponse
 
