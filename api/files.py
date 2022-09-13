@@ -14,7 +14,6 @@ router = APIRouter()
 async def get(pagename: str):
     path = os.getcwd() + "/Pagejson/" + pagename + ".json"
     if not os.path.isfile(path):
-        print(123213)
         raise HTTPException(status_code=400, detail="page isn't exist")
     try:
         with open(path) as file:
@@ -38,7 +37,7 @@ async def upload(pagename: str, data: dict, authorize: AuthJWT = Depends()):
         print(e)
         raise HTTPException(status_code=500, detail="Create error")
 
-
+# delete page
 @router.delete("/page/{pagename}")
 def get(pagename: str, authorize: AuthJWT = Depends()):
     auth_token(authorize)
@@ -57,7 +56,6 @@ def get(pagename: str, authorize: AuthJWT = Depends()):
 def get(filename: str):
     path = os.getcwd() + "/AllPic/" + filename
     if not os.path.isfile(path):
-        print(123213)
         raise HTTPException(status_code=400, detail="file isn't exist")
     try:
         return FileResponse(path=path)
@@ -81,6 +79,7 @@ async def upload(file: UploadFile, authorize: AuthJWT = Depends()):
         raise HTTPException(status_code=500, detail="Upload error")
 
 
+# delete file
 @router.delete("/file/{filename}")
 def get(filename: str, authorize: AuthJWT = Depends()):
     auth_token(authorize)
