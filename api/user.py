@@ -10,6 +10,7 @@ import auth
 router = APIRouter()
 
 
+# create user
 @router.post("/user", response_model=UserModel)
 def create_user(user_data: UserCreateModel,
                 db: Session = Depends(get_db)):

@@ -1,14 +1,15 @@
 from fastapi import UploadFile, APIRouter, HTTPException, Depends
 from fastapi_jwt_auth import AuthJWT
 from starlette.responses import FileResponse
+from auth import auth_token
 import json
 import os
 
-from auth import auth_token
 
 router = APIRouter()
 
 
+# get page
 @router.get("/page/{pagename}")
 async def get(pagename: str):
     try:
@@ -20,6 +21,7 @@ async def get(pagename: str):
         raise HTTPException(status_code=400, detail="error")
 
 
+# create page
 @router.post("/page/{pagename}")
 async def upload(pagename: str, data: dict, authorize: AuthJWT = Depends()):
     auth_token(authorize)
