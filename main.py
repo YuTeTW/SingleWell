@@ -7,6 +7,8 @@ from starlette.responses import FileResponse
 app = FastAPI()
 
 
+
+
 @app.get("/page/{pagename}")
 async def get(pagename: str):
     try:
