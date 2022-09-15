@@ -17,6 +17,7 @@ async def get():
         site_map = json.load(file)
     return site_map
 
+
 # get page
 @router.get("/page/{page_name}")
 async def get(page_name: str, language: str):
