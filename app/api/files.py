@@ -9,13 +9,16 @@ import os
 router = APIRouter()
 
 
+@router.get("/")
+async def get():
+    return "This is Single Well server."
+
+
 # get site_map
 @router.get("/site_map")
 async def get():
     path = f"{os.getcwd()}/app/site_map.json"
-    with open(path) as file:
-        site_map = json.load(file)
-    return site_map
+    return FileResponse(path=path)
 
 
 # get page
