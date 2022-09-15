@@ -1,7 +1,7 @@
 from fastapi import UploadFile, APIRouter, HTTPException, Depends
 from fastapi_jwt_auth import AuthJWT
 from starlette.responses import FileResponse
-from auth import auth_token
+from app.auth import auth_token
 import json
 import os
 
@@ -9,10 +9,18 @@ import os
 router = APIRouter()
 
 
+# get site_map
+@router.get("/site_map")
+async def get():
+    path = f"{os.getcwd()}/app/site_map.json"
+    with open(path) as file:
+        site_map = json.load(file)
+    return site_map
+
 # get page
-@router.get("/page/{pagename}")
-async def get(pagename: str):
-    path = os.getcwd() + "/Pagejson/" + pagename + ".json"
+@router.get("/page/{page_name}")
+async def get(page_name: str, language: str):
+    path = f"{os.getcwd()}/app/PageJson/{language}/{page_name}.json"
     if not os.path.isfile(path):
         raise HTTPException(status_code=400, detail="page isn't exist")
     try:
@@ -25,10 +33,10 @@ async def get(pagename: str):
 
 
 # create page
-@router.post("/page/{pagename}")
-async def upload(pagename: str, data: dict, authorize: AuthJWT = Depends()):
+@router.post("/page/{page_name}")
+async def upload(page_name: str, language: str, data: dict, authorize: AuthJWT = Depends()):
     auth_token(authorize)
-    path = os.getcwd() + "/Pagejson/" + pagename + ".json"
+    path = f"{os.getcwd()}/app/PageJson/{language}/{page_name}.json"
     try:
         with open(path, "w") as file:
             json.dump(data, file)
@@ -37,11 +45,12 @@ async def upload(pagename: str, data: dict, authorize: AuthJWT = Depends()):
         print(e)
         raise HTTPException(status_code=500, detail="Create error")
 
+
 # delete page
-@router.delete("/page/{pagename}")
-def get(pagename: str, authorize: AuthJWT = Depends()):
+@router.delete("/page/{page_name}")
+def get(page_name: str, language: str, authorize: AuthJWT = Depends()):
     auth_token(authorize)
-    path = os.getcwd() + "/Pagejson/" + pagename + ".json"
+    path = f"{os.getcwd()}/app/PageJson/{language}/{page_name}.json"
     if not os.path.isfile(path):
         raise HTTPException(status_code=400, detail="page isn't exist")
     try:
@@ -52,9 +61,9 @@ def get(pagename: str, authorize: AuthJWT = Depends()):
 
 
 # download file
-@router.get("/file/{filename}")
+@router.get("/file")
 def get(filename: str):
-    path = os.getcwd() + "/AllPic/" + filename
+    path = os.getcwd() + "/app/files/" + filename
     if not os.path.isfile(path):
         raise HTTPException(status_code=400, detail="file isn't exist")
     try:
@@ -68,7 +77,7 @@ def get(filename: str):
 @router.post("/file")
 async def upload(file: UploadFile, authorize: AuthJWT = Depends()):
     auth_token(authorize)
-    path = os.getcwd() + "/AllPic/" + file.filename
+    path = os.getcwd() + "/app/files/" + file.filename
     try:
         with open(path, "wb") as _file:
             file = file.file.read()
@@ -83,7 +92,7 @@ async def upload(file: UploadFile, authorize: AuthJWT = Depends()):
 @router.delete("/file/{filename}")
 def get(filename: str, authorize: AuthJWT = Depends()):
     auth_token(authorize)
-    path = os.getcwd() + "/AllPic/" + filename
+    path = os.getcwd() + "/app/files/" + filename
     if not os.path.isfile(path):
         raise HTTPException(status_code=400, detail="file isn't exist")
     try:

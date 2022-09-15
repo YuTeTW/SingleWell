@@ -3,3 +3,5 @@ sqlalchemy
 fastapi
 fastapi_jwt_auth
 passlib
+pydantic[email]
+python-multipart
