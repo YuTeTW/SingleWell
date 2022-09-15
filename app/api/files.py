@@ -11,7 +11,7 @@ router = APIRouter()
 
 @router.get("/")
 async def get():
-    return "This is Single Well server."
+    return {"message": " This is Single Well server. "}
 
 
 # get site_map
