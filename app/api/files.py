@@ -93,7 +93,7 @@ async def upload(file: UploadFile, authorize: AuthJWT = Depends()):
 
 
 # delete file
-@router.delete("/file/{filename}")
+@router.delete("/file")
 def get(filename: str, authorize: AuthJWT = Depends()):
     auth_token(authorize)
     path = os.getcwd() + "/app/files/" + filename
