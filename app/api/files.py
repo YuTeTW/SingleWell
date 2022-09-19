@@ -1,4 +1,4 @@
-from fastapi import UploadFile, APIRouter, HTTPException, Depends
+from fastapi import UploadFile, APIRouter, HTTPException, Depends, File
 from fastapi_jwt_auth import AuthJWT
 from starlette.responses import FileResponse
 from app.auth import auth_token
@@ -22,7 +22,7 @@ async def get():
 
 
 # get page
-@router.get("/page/{page_name}")
+@router.get("/page/{language}/{page_name}")
 async def get(page_name: str, language: str):
     path = f"{os.getcwd()}/app/PageJson/{language}/{page_name}.json"
     if not os.path.isfile(path):
@@ -37,9 +37,9 @@ async def get(page_name: str, language: str):
 
 
 # create page
-@router.post("/page/{page_name}")
+@router.post("/page/{language}/{page_name}")
 async def upload(page_name: str, language: str, data: dict, authorize: AuthJWT = Depends()):
-    auth_token(authorize)
+    # auth_token(authorize)
     path = f"{os.getcwd()}/app/PageJson/{language}/{page_name}.json"
     try:
         with open(path, "w") as file:
@@ -51,7 +51,7 @@ async def upload(page_name: str, language: str, data: dict, authorize: AuthJWT =
 
 
 # delete page
-@router.delete("/page/{page_name}")
+@router.delete("/page/{language}/{page_name}")
 def get(page_name: str, language: str, authorize: AuthJWT = Depends()):
     auth_token(authorize)
     path = f"{os.getcwd()}/app/PageJson/{language}/{page_name}.json"
@@ -65,13 +65,13 @@ def get(page_name: str, language: str, authorize: AuthJWT = Depends()):
 
 
 # download file
-@router.get("/file")
+@router.get("/file/{filename}")
 def get(filename: str):
     path = os.getcwd() + "/app/files/" + filename
     if not os.path.isfile(path):
         raise HTTPException(status_code=400, detail="file isn't exist")
     try:
-        return FileResponse(path=path)
+        return FileResponse(path=path, filename=filename)
     except Exception as e:
         print(e)
         raise HTTPException(status_code=500, detail="Download error")
@@ -79,12 +79,14 @@ def get(filename: str):
 
 # upload file
 @router.post("/file")
-async def upload(file: UploadFile, authorize: AuthJWT = Depends()):
-    auth_token(authorize)
-    path = os.getcwd() + "/app/files/" + file.filename
+async def upload(Image_file: UploadFile = File(...)):
+
+# async def upload(Image_file: UploadFile = File(...), authorize: AuthJWT = Depends()):
+    # auth_token(authorize)
+    path = os.getcwd() + "/app/files/" + Image_file.filename
     try:
         with open(path, "wb") as _file:
-            file = file.file.read()
+            file = Image_file.file.read()
             _file.write(file)
         return "upload success"
     except Exception as e:
@@ -93,7 +95,7 @@ async def upload(file: UploadFile, authorize: AuthJWT = Depends()):
 
 
 # delete file
-@router.delete("/file")
+@router.delete("/file/{filename}")
 def get(filename: str, authorize: AuthJWT = Depends()):
     auth_token(authorize)
     path = os.getcwd() + "/app/files/" + filename
