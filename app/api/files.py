@@ -10,20 +10,20 @@ router = APIRouter()
 
 
 @router.get("/")
-async def get():
+def get():
     return {"message": " This is Single Well server. "}
 
 
 # get site_map
 @router.get("/site_map")
-async def get():
+def get():
     path = f"{os.getcwd()}/app/site_map.json"
     return FileResponse(path=path)
 
 
 # get page
 @router.get("/page/{language}/{page_name}")
-async def get(page_name: str, language: str):
+def get(page_name: str, language: str):
     path = f"{os.getcwd()}/app/PageJson/{language}/{page_name}.json"
     if not os.path.isfile(path):
         raise HTTPException(status_code=400, detail="page isn't exist")
