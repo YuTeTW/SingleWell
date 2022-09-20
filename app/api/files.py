@@ -71,7 +71,7 @@ def get(filename: str):
     if not os.path.isfile(path):
         raise HTTPException(status_code=400, detail="file isn't exist")
     try:
-        return FileResponse(path=path, filename=filename)
+        return FileResponse(path=path)
     except Exception as e:
         print(e)
         raise HTTPException(status_code=500, detail="Download error")
