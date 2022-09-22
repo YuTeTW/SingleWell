@@ -5,7 +5,6 @@ from app.auth import auth_token
 import json
 import os
 
-
 router = APIRouter()
 
 
