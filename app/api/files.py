@@ -5,7 +5,6 @@ from app.auth import auth_token
 import json
 import os
 
-
 router = APIRouter()
 
 
@@ -39,7 +38,7 @@ def get(page_name: str, language: str):
 # create page
 @router.post("/page/{language}/{page_name}")
 async def upload(page_name: str, language: str, data: dict, authorize: AuthJWT = Depends()):
-    # auth_token(authorize)
+    auth_token(authorize)
     path = f"{os.getcwd()}/app/PageJson/{language}/{page_name}.json"
     try:
         with open(path, "w") as file:
@@ -52,7 +51,7 @@ async def upload(page_name: str, language: str, data: dict, authorize: AuthJWT =
 
 # delete page
 @router.delete("/page/{language}/{page_name}")
-def get(page_name: str, language: str, authorize: AuthJWT = Depends()):
+def delete_file(page_name: str, language: str, authorize: AuthJWT = Depends()):
     auth_token(authorize)
     path = f"{os.getcwd()}/app/PageJson/{language}/{page_name}.json"
     if not os.path.isfile(path):
@@ -79,10 +78,8 @@ def get(filename: str):
 
 # upload file
 @router.post("/file")
-async def upload(Image_file: UploadFile = File(...)):
-
-# async def upload(Image_file: UploadFile = File(...), authorize: AuthJWT = Depends()):
-    # auth_token(authorize)
+async def upload(Image_file: UploadFile = File(...), authorize: AuthJWT = Depends()):
+    auth_token(authorize)
     path = os.getcwd() + "/app/files/" + Image_file.filename
     try:
         with open(path, "wb") as _file:
@@ -96,7 +93,7 @@ async def upload(Image_file: UploadFile = File(...)):
 
 # delete file
 @router.delete("/file/{filename}")
-def get(filename: str, authorize: AuthJWT = Depends()):
+def delete_file(filename: str, authorize: AuthJWT = Depends()):
     auth_token(authorize)
     path = os.getcwd() + "/app/files/" + filename
     if not os.path.isfile(path):
