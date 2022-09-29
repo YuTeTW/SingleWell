@@ -32,7 +32,7 @@ def get(page_name: str, language: str):
         return page
     except Exception as e:
         print(e)
-        raise HTTPException(status_code=500, detail="Get page error")
+        raise HTTPException(status_code=500, detail="server get page error")
 
 
 # create page
@@ -46,7 +46,7 @@ async def upload(page_name: str, language: str, data: dict, authorize: AuthJWT =
         return "upload success"
     except Exception as e:
         print(e)
-        raise HTTPException(status_code=500, detail="Create error")
+        raise HTTPException(status_code=500, detail="server create error")
 
 
 # delete page
@@ -60,7 +60,7 @@ def delete_file(page_name: str, language: str, authorize: AuthJWT = Depends()):
         os.remove(path)
     except Exception as e:
         print(e)
-        raise HTTPException(status_code=500, detail="Delete error")
+        raise HTTPException(status_code=500, detail="server delete error")
 
 
 # download file
@@ -73,7 +73,7 @@ def get(filename: str):
         return FileResponse(path=path)
     except Exception as e:
         print(e)
-        raise HTTPException(status_code=500, detail="Download error")
+        raise HTTPException(status_code=500, detail="server download error")
 
 
 # upload file
@@ -88,7 +88,7 @@ async def upload(Image_file: UploadFile = File(...), authorize: AuthJWT = Depend
         return "upload success"
     except Exception as e:
         print(e)
-        raise HTTPException(status_code=500, detail="Upload error")
+        raise HTTPException(status_code=500, detail="server upload error")
 
 
 # delete file
@@ -102,4 +102,4 @@ def delete_file(filename: str, authorize: AuthJWT = Depends()):
         os.remove(path)
     except Exception as e:
         print(e)
-        raise HTTPException(status_code=500, detail="Delete error")
+        raise HTTPException(status_code=500, detail="server delete error")
