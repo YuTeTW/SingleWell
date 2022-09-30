@@ -1,18 +1,17 @@
-#
 FROM python:3.9
 
 #
-WORKDIR /SWserver
+WORKDIR /backend
 
 #
-COPY ./requirements.txt /SWserver/requirements.txt
+COPY ./requirements.txt /backend/requirements.txt
 
 #
-RUN pip install --no-cache-dir --upgrade -r /SWserver/requirements.txt
+RUN pip install --no-cache-dir --upgrade -r /backend/requirements.txt
 
 #
-COPY ./app /SWserver/app
+COPY ./app /backend/app
 
 #
-CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "80"]
+CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8080"]
 
