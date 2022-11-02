@@ -18,4 +18,4 @@ app.add_middleware(
 Base.metadata.create_all(bind=engine)
 
 
-# uvicorn app.main:app --reload
+# uvicorn app.main:app --host 192.168.45.103 --port 8080

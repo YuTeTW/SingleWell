@@ -68,7 +68,31 @@
       "data": [
         { "name": {"zh": "公司基本介紹", "ch": "公司基本介绍", "en": "Introduction"}, "value": "investor_introduction", "data": [] },
         { "name": {"zh": "每月營業報告", "ch": "每月营业报告", "en": "Monthly Report"}, "value": "investor_monthly_report", "data": [] },
-        { "name": {"zh": "財務報表", "ch": "财务报表", "en": "Financial Statements"}, "value": "investor_financial_statements", "data": [] },
+        { 
+          "name": {"zh": "財務報表", "ch": "财务报表", "en": "Financial Statements"}, 
+          "value": "investor_financial_statements", 
+          "data": [],
+          "slot": [
+            {"value": "financial_statements_111"}, 
+            {"value": "financial_statements_110"}, 
+            {"value": "financial_statements_109"}, 
+            {"value": "financial_statements_108"},
+            {"value": "financial_statements_107"},
+            {"value": "financial_statements_106"},
+            {"value": "financial_statements_105"},
+            {"value": "financial_statements_104"},
+            {"value": "financial_statements_103"},
+            {"value": "financial_statements_102"},
+            {"value": "financial_statements_101"},
+            {"value": "financial_statements_100"},
+            {"value": "financial_statements_099"},
+            {"value": "financial_statements_098"},
+            {"value": "financial_statements_097"},
+            {"value": "financial_statements_096"},
+            {"value": "financial_statements_095"},
+            {"value": "financial_statements_094"}
+          ]
+        },
         { "name": {"zh": "公司年報", "ch": "公司年报", "en": "Annual Report"}, "value": "investor_annual_report", "data": [] },
         { 
           "name": {"zh": "股東專區", "ch": "股东专区", "en": "Shareholder"}, 
@@ -88,7 +112,10 @@
     {
       "name": {"zh": "新聞中心", "ch": "新闻中心", "en": "News"},
       "value": "news",
-      "data": []
+      "data": [],
+      "slot": [
+        {"value": "news_01"}, {"value": "news_02"}, {"value": "news_03"}, {"value": "news_04"}
+      ]
     },
     {
       "name": {"zh": "聯絡我們", "ch": "联络我们", "en": "Connect"},
