@@ -1,0 +1,2135 @@
+{
+    "type": 1,
+    "style": [
+        {
+            "key": "margin-bottom",
+            "value": "20px"
+        }
+    ],
+    "data": [
+        {
+            "block_title": "Ethics management-1",
+            "type": 1,
+            "style": {
+                "title": {
+                    "class": "title-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Ethics management Principle",
+            "content": "",
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-2",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 1\uff08Purpose and Scope\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "title": "",
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "content": "To foster a corporate culture of ethical management and sound development, and offer a reference framework for establishing good commercial practices. These principles applicable to business groups and organizations of the Company, which comprise its subsidiaries, any foundation to which the Company's direct or indirect contribution of funds exceeds 50 percent of the total funds received, and other institutions or juridical persons which are substantially controlled by such company (\"business group\").",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-3",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 2\uff08Unethical conduct is prohibited\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "title": "",
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "content": "",
+                    "value": ""
+                },
+                {
+                    "type": 1,
+                    "title": "",
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "content": "When engaging in commercial activities, directors, managers, employees, and mandataries of the Company or persons having substantial control over the Company (\"substantial controllers\") shall not directly or indirectly offer, promise to offer, request or accept any improper benefits, nor commit unethical acts including breach of ethics, illegal acts, or breach of fiduciary duty (\"unethical conduct\") for purposes of acquiring or maintaining benefits. Parties referred to in the preceding paragraph include civil servants, political candidates, political parties or members of political parties, state-run or private-owned businesses or institutions, and their directors, managers, employees or substantial controllers or other stakeholders.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-4",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 3\uff08Types of Benefits\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "title": "",
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "content": "\"Benefits\" in these Principles means any valuable things, including money, endowments, commissions, positions, services, preferential treatment or rebates of any type or in any name. Benefits received or given occasionally in accordance with accepted social customs and that do not adversely affect specific rights and obligations shall be excluded.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-5",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 4\uff08Statutory compliance\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "title": "",
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "content": "The Company shall comply with the Company Act, Securities and Exchange Act, Business Entity Accounting Act, Political Donations Act, Anti-Corruption Statute, Government Procurement Act, Act on Recusal of Public Servants Due to Conflicts of Interest, TWSE/GTSM listing rules, or other laws or regulations regarding commercial activities, as the underlying basic premise to facilitate ethical corporate management.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-6",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 5\uff08Policy\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "title": "",
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "content": "The Company shall abide by the operational philosophies of honesty, transparency and responsibility, base policies on the principle of good faith and establish good corporate governance and risk control and management mechanism so as to create an operational environment for sustainable development.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-7",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 6\uff08Prevention programs\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "title": "",
+                    "content": "",
+                    "value": ""
+                },
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "",
+                    "content": "",
+                    "value": ""
+                },
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "",
+                    "content": "The Company shall in its own ethical management policy clearly and thoroughly prescribe the specific ethical management practices and the programs to forestall unethical conduct (\"prevention programs\"), including operational procedures, guidelines, and training. When establishing the prevention programs, the Company shall comply with relevant laws and regulations of the territory where the Company and its business group are operating. In the course of developing the prevention programs, the Company are advised to negotiate with staff, labor unions members, important trading counterparties, or other stakeholders.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-8",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 7\uff08Scope of prevention programs\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "title": "",
+                    "content": "",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-9",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-s",
+                    "other": "margin-top: 0px;"
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": "margin: 0px;"
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "When establishing the prevention programs, the Company shall analyze which business activities within their business scope which are possibly at a higher risk of being involved in an unethical conduct, and strengthen the preventive measures. The prevention programs adopted by the Companies shall at least include preventive measures against the following:",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "title": "1. ",
+                    "content": "Offering and acceptance of bribes.",
+                    "value": ""
+                },
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "2. ",
+                    "content": "Illegal political donations.",
+                    "value": ""
+                },
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "3. ",
+                    "content": "Improper charitable donations or sponsorship.",
+                    "value": ""
+                },
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "4. ",
+                    "content": "Offering or acceptance of unreasonable presents or hospitality, or other improper benefits.",
+                    "value": ""
+                },
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "5. ",
+                    "content": "Misappropriation of trade secrets and infringement of trademark rights, patent rights, copyrights, and other intellectual property rights.",
+                    "value": ""
+                },
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "6. ",
+                    "content": "Engaging in unfair competitive practices.",
+                    "value": ""
+                },
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "7. ",
+                    "content": "Damage directly or indirectly caused to the rights or interests, health, or safety of consumers or other stakeholders in the course of research and development, procureme, manufacture, provision, or sale of products and services.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-10",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 8\uff08Commitment and Implementation\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "title": "",
+                    "content": "The Company and their respective business group shall clearly specify in their rules and external documents the ethical corporate management policies and the commitment by the board of directors and the management on rigorous and thorough implementation of such policies, and shall carry out the policies in internal management and in commercial activities.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-11",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 9\uff08Commercial activities in a fair and transparent manner\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "title": "",
+                    "content": "",
+                    "value": ""
+                },
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "",
+                    "content": "The Company shall engage in commercial activities in a fair and transparent manner based on the principle of ethical management. Prior to any commercial transactions, the Company shall take into consideration the legality of their agents, suppliers, clients, or other trading counterparties and whether any of them are involved in unethical conduct, and shall avoid any dealings with persons so involved. When entering into contracts with their agents, suppliers, clients, or other trading counterparties, the Company shall include in such contracts terms requiring compliance with ethical corporate management policy and that in the event the trading counterparties are involved in unethical conduct, the Company may at any time terminate or rescind the contracts.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-12",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 10\uff08Bribery is prohibited\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "title": "",
+                    "content": "When conducting business, the company and their directors, managers, employees, mandataries, and substantial controllers, may not directly or indirectly offer, promise to offer, request, or accept any improper benefits in whatever form to or from clients, agents, contractors, suppliers, public servants, or other stakeholders.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-13",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 11\uff08Illegal political donation is prohibited\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "title": "",
+                    "content": "When directly or indirectly offering a donation to political parties or organizations or individuals participating in political activities, the Company and their directors, managers, employees, mandataries, and substantial controllers, shall comply with the Political Donations Act and their own relevant internal operational procedures, and shall not make such donations in exchange for commercial gains or business advantages.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-14",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 12\uff08 Improper donation or sponsorship is prohibited\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "title": "",
+                    "content": "When making or offering donations and sponsorship, the Company and their directors, managers, employees, mandataries, and substantial controllers shall comply with relevant laws and regulations and internal operational procedures, and shall not surreptitiously engage in bribery.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-15",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 13\uff08Unreasonable presents, hospitality or other improper benefits are prohibited\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "title": "",
+                    "content": "The Company and their directors, managers, employees, mandataries, and substantial controllers shall not directly or indirectly offer or accept any unreasonable presents, hospitality or other improper benefits to establish business relationship or influence commercial transactions.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-16",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 14\uff08Infringement of intellectual property rights is prohibited\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "title": "",
+                    "content": "The Company and their directors, managers, employees, mandataries, and substantial controllers shall observe applicable laws and regulations, the company's internal operational procedures, and contractual provisions concerning intellectual property, and may not use, disclose, dispose, or damage intellectual property or otherwise infringe intellectual property rights without the prior consent of the intellectual property rights holder.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-17",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 15\uff08Conducts of unfair competition is prohibited\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "title": "",
+                    "content": "The Company shall engage in business activities in accordance with applicable competition laws and regulations, and may not fix prices, make rigged bids, establish output restrictions or quotas, or share or divide markets by allocating customers, suppliers, territories, or lines of commerce.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-18",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 16\uff08Preventing products and services from damaging the safety of its stakeholders\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "title": "",
+                    "content": "In the course of research and development, procurement, manufacture, provision, or sale of products and services, the Company and its directors, managers, employees, mandataries, and substantial controllers shall observe applicable laws and regulations and international standards to ensure the transparency of information about, and safety of, its products and services. It shall also adopt and publish a policy on the protection of the rights and interests of consumers or other stakeholders, and carry out the policy in its operations, with a view to preventing its products and services from directly or indirectly damaging the rights and interests, health, and safety of consumers or other stakeholders. Where there are sufficient facts to determine that the company's products or services are likely to pose any hazard to the safety and health of consumers or other stakeholders, the company shall, in principle, recall those products or suspend the services immediately.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-18",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 17\uff08Organization and Responsibility\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "title": "",
+                    "content": "",
+                    "value": ""
+                },
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "",
+                    "content": "The directors, managers, employees, mandataries, and substantial controllers of the Company shall exercise the due care of good administrators to urge the company to prevent unethical conduct, always review the results of the preventive measures and continually make adjustments so as to ensure thorough implementation of its ethical corporate management policies. To achieve sound ethical corporate management, the Company shall establish a dedicated unit that is under the board of directors and responsible for establishing and supervising the implementation of the ethical corporate management policies and prevention programs. The dedicated unit shall be in charge of the following matters, and shall report to the board of directors on a regular basis:",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-19",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 17\uff08Organization and Responsibility\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "title": "1. ",
+                    "content": "Assisting in incorporating ethics and moral values into the company's business strategy and adopting appropriate prevention measures against corruption and malfeasance to ensure ethical management in compliance with the requirements of laws and regulations.",
+                    "value": ""
+                },
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "2. ",
+                    "content": "Adopting programs to prevent unethical conduct and setting out in each program the standard operating procedures and conduct guidelines with respect to the company's operations and business.",
+                    "value": ""
+                },
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "3. ",
+                    "content": "Planning the internal organization, structure, and allocation of responsibilities and setting up check-and-balance mechanisms for mutual supervision of the business activities within the business scope which are possibly at a higher risk for unethical conduct.",
+                    "value": ""
+                },
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "4. ",
+                    "content": "Promoting and coordinating awareness and educational activities with respect to ethics policy.",
+                    "value": ""
+                },
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "5. ",
+                    "content": "Developing a whistle-blowing system and ensuring its operating effectiveness.",
+                    "value": ""
+                },
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "6. ",
+                    "content": "Assisting the board of directors and management in auditing and assessing whether the prevention measures taken for the purpose of implementing ethical management are effectively operating, and preparing reports on the regular assessment of compliance with ethical management in operating procedures.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-20",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 18\uff08Compliance requirement to conduct business\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "title": "",
+                    "content": "The Company and its directors, managers, employees, mandataries, and substantial controllers shall comply with laws and regulations and the prevention programs when conducting business.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-21",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 19\uff08Conflict of interest avoidance\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "",
+                    "content": "The Company shall adopt policies for preventing conflicts of interest to identify, monitor, and manage risks possibly resulting from unethical conduct, and shall also offer appropriate means for directors, managers, and other stakeholders attending or present at board meetings to voluntarily explain whether their interests would potentially conflict with those of the company. When a proposal at a given board of directors meeting concerns the personal interest of, or the interest of the juristic person represented by, any of the directors, managers, and other stakeholders attending or present at board meetings of the Company, the concerned person shall state the important aspects of the relationship of interest at the given board meeting. If his or her participation is likely to prejudice the interest of the company, the concerned person may not participate in discussion of or voting on the proposal and shall recuse himself or herself from the discussion or the voting, and may not exercise voting rights as proxy for another director. The directors shall practice self-discipline and must not support one another in improper dealings. The Company's directors, managers, employees, mandataries, and substantial controllers shall not take advantage of their positions or influence in the company to obtain improper benefits for themselves, their spouses, parents, children or any other person.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-22",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 20\uff08Accounting and Internal control\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "title": "",
+                    "content": "The company shall establish effective accounting systems and internal control systems for business activities possibly at a higher risk of being involved in an unethical conduct, not have under-the-table accounts or keep secret accounts, and conduct reviews regularly so as to ensure that the design and enforcement of the systems are showing results. The internal audit unit of the Company shall periodically examine the company's compliance with the foregoing systems and prepare audit reports and submit the same to the board of directors. The internal audit unit may engage a certified public accountant to carry out the audit, and may engage professionals to assist if necessary.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-23",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 21\uff08Procedures and guidelines\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "title": "",
+                    "content": "The company shall establish operational procedures and guidelines in accordance with Article 6 hereof to guide directors, managers, employees, and substantial controllers on how to conduct business. The procedures and guidelines should at least contain the following matters:",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-24",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "title": "1. ",
+                    "content": " Standards for determining whether improper benefits have been offered or accepted.",
+                    "value": ""
+                },
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "2. ",
+                    "content": "Procedures for offering legitimate political donations.",
+                    "value": ""
+                },
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "3. ",
+                    "content": "Procedures and the standard rates for offering charitable donations or sponsorship.",
+                    "value": ""
+                },
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "4. ",
+                    "content": "Rules for avoiding work-related conflicts of interests and how they should be reported and handled.",
+                    "value": ""
+                },
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "5. ",
+                    "content": "Rules for keeping confidential trade secrets and sensitive business information obtained in the ordinary course of business.",
+                    "value": ""
+                },
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "6. ",
+                    "content": "Regulations and procedures for dealing with suppliers, clients and business transaction counterparties suspected of unethical conduct.",
+                    "value": ""
+                },
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "7.",
+                    "content": "Handling procedures for violations of these Principles.",
+                    "value": ""
+                },
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "8.",
+                    "content": "Disciplinary measures on offenders.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-25",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 22\uff08Training and Performance appraisal system\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }
+                    },
+                    "title": "",
+                    "content": "The chairperson, general manager, or senior management of the Company shall communicate the importance of corporate ethics to its directors, employees, and mandataries on a regular basis. The Company shall periodically organize training and awareness programs for directors, managers, employees, mandataries, and substantial controllers and invite the companies' commercial transaction counterparties so they understand the companies' resolve to implement ethical corporate management, the related policies, prevention programs and the consequences of committing unethical conduct. The Company shall apply the policies of ethical corporate management when creating its employee performance appraisal system and human resource policies to establish a clear and effective reward and discipline system.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-26",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 23\uff08Disciplinary and Appeal system\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "title": "",
+                    "content": "The Company shall adopt and publish a well-defined disciplinary and appeal system for handling violations of the ethical corporate management rules, and shall make immediate disclosure on the company's internal website of the title and name of the violator, the date and details of the violation, and the actions taken in response.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-27",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 24\uff08Information Disclosure\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "title": "",
+                    "content": "The Company shall collect quantitative data about the promotion of ethical management and continuously analyze and assess the effectiveness of the promotion of ethical management policy. They shall also disclose the measures taken for implementing ethical corporate management, the status of implementation, the foregoing quantitative data, and the effectiveness of promotion on their company websites, annual reports, and prospectuses, and shall disclose their ethical corporate management best practice principles on the Market Observation Post System.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-28",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 25\uff08Ethical corporate management policies and measure for better implementation\uff09",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "title": "",
+                    "content": "The Company shall at all times monitor the development of relevant local and international regulations concerning ethical corporate management and encourage their directors, managers, and employees to make suggestions, based on which the adopted ethical corporate management policies and measures taken will be reviewed and improved with a view to achieving better implementation of ethical management.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-29",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Article 26",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "title": "",
+                    "content": "The ethical corporate management best practice principles of the company shall be implemented after the board of directors grants the approval, and shall be sent to the audit committee and reported at a shareholders' meeting. The same procedure shall be followed when the principles have been amended. The Company that has appointed any independent director, when the ethical corporate management best practice principles are submitted for discussion by the board of directors pursuant to the preceding paragraph, the board of directors shall take into full consideration each independent director's opinions. If an independent director objects to or expresses reservations about any matter, it shall be recorded in the minutes of the board of directors meeting. An independent director that cannot attend the board meeting in person to express objection or reservations shall provide a written opinion before the board meeting, unless there is some legitimate reason to do otherwise, and the opinion shall be specified in the minutes of the board of directors meeting.",
+                    "value": ""
+                }
+            ],
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-30",
+            "type": 1,
+            "style": {
+                "title": {
+                    "class": "",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": "margin: 0px;"
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "Grievance and reporting methods",
+            "content": "The company has a professional ethics reporting line and a dedicated mailbox, which provide employees or outsiders with the ability to report issues related to violations of ethics, laws or organizational integrity anonymously or anonymously. The General Management Office is responsible for investigating and reporting the reports of employees and outsiders. If the whistleblower is an appointed manager or a higher level person, it shall be submitted to the general manager or the chairman of the board of directors to determine the investigation unit. The filing and investigation results of the reported cases shall be submitted to the Chairman of the Audit Committee, and the implementation shall be reported to the Board of Directors every year.",
+            "value": ""
+        },
+        {
+            "block_title": "Ethics management-31",
+            "type": 2,
+            "style": {
+                "title": {
+                    "class": "title-n gap-n",
+                    "other": ""
+                },
+                "content": {
+                    "class": "content-n",
+                    "other": ""
+                },
+                "value": {
+                    "class": "",
+                    "other": ""
+                },
+                "main": {
+                    "class": "",
+                    "other": ""
+                }
+            },
+            "title": "",
+            "content": [
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": ""
+                        }
+                    },
+                    "title": "",
+                    "content": "02-22686191 #1108"
+                },
+                {
+                    "type": 1,
+                    "style": {
+                        "title": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "content": {
+                            "class": "text-justify",
+                            "other": "margin: 0px; text-align-last: auto; width: 100%;"
+                        },
+                        "value": {
+                            "class": "",
+                            "other": ""
+                        },
+                        "main": {
+                            "class": "",
+                            "other": "margin-top: 5px; "
+                        }`
+                    },
+                    "title": "grievance@singlewell.com.tw",
+                    "content": ""
+                }
+            ],
+            "value": ""
+        }
+    ]
+}

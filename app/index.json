@@ -1,0 +1,400 @@
+{
+    "mold": {
+      "name": {},
+      "category": {"zh": "分類", "ch": "分类", "en": "Category"},
+      "path": "/",
+      "data": [
+        {
+          "name": {"zh": "IC", "ch": "IC", "en": "IC"}, 
+          "category": {"zh": "子項", "ch": "子项", "en": "Child"},
+          "path": "/ic",
+          "data": [
+            {
+              "name": {"zh": "DAUL", "ch": "DAUL", "en": "DAUL"}, 
+              "category": {"zh": "細項", "ch": "细项", "en": "Detail"},
+              "path": "/ic/daul",
+              "data": [
+                {
+                  "name": {"zh": "SOP", "ch": "SOP", "en": "SOP"}, 
+                  "path": "/ic/daul/sop"
+                },
+                {
+                  "name": {"zh": "SOJ", "ch": "SOJ", "en": "SOJ"}, 
+                  "path": "/ic/daul/soj"
+                },
+                {
+                  "name": {"zh": "P-DIP", "ch": "P-DIP", "en": "P-DIP"}, 
+                  "path": "/ic/daul/p-dip"
+                },
+                {
+                  "name": {"zh": "SKINNY", "ch": "SKINNY", "en": "SKINNY"}, 
+                  "path": "/ic/daul/skinny"
+                },
+                {
+                  "name": {"zh": "TQFP", "ch": "TQFP", "en": "TQFP"}, 
+                  "path": "/ic/daul/tqfp"
+                },
+                {
+                  "name": {"zh": "TSOP", "ch": "TSOP", "en": "TSOP"}, 
+                  "path": "/ic/daul/tsop"
+                }
+              ]
+            },
+            {
+              "name": {"zh": "QUAD", "ch": "QUAD", "en": "QUAD"}, 
+              "category": {"zh": "細項", "ch": "细项", "en": "Detail"},
+              "path": "/ic/quad",
+              "data": [
+                {
+                  "name": {"zh": "QFP", "ch": "QFP", "en": "QFP"}, 
+                  "path": "/ic/quad/qfp"
+                },
+                {
+                  "name": {"zh": "LQFP", "ch": "LQFP", "en": "LQFP"}, 
+                  "path": "/ic/quad/lqfp"
+                },
+                {
+                  "name": {"zh": "TQFP", "ch": "TQFP", "en": "TQFP"}, 
+                  "path": "/ic/quad/tqfp"
+                },
+                {
+                  "name": {"zh": "PLCC", "ch": "PLCC", "en": "PLCC"}, 
+                  "path": "/ic/quad/plcc"
+                }
+              ]
+            },
+            {
+              "name": {"zh": "DISCRETE", "ch": "DISCRETE", "en": "DISCRETE"}, 
+              "category": {"zh": "細項", "ch": "细项", "en": "Detail"},
+              "path": "/ic/discrete",
+              "data": [
+                {
+                  "name": {"zh": "SMA", "ch": "SMA", "en": "SMA"}, 
+                  "path": "/ic/discrete/sma"
+                },
+                {
+                  "name": {"zh": "TO220/263", "ch": "TO220/263", "en": "TO220/263"}, 
+                  "path": "/ic/discrete/to263"
+                },
+                {
+                  "name": {"zh": "TO-92", "ch": "TO-92", "en": "TO-92"}, 
+                  "path": "/ic/discrete/to92"
+                },
+                {
+                  "name": {"zh": "TO-3P", "ch": "TO-3P", "en": "TO-3P"}, 
+                  "path": "/ic/discrete/to3p"
+                },
+                {
+                  "name": {"zh": "SOT-89", "ch": "SOT-89", "en": "SOT-89"}, 
+                  "path": "/ic/discrete/sot89"
+                },
+                {
+                  "name": {"zh": "SOT-2X", "ch": "SOT-2X", "en": "SOT-2X"}, 
+                  "path": "/ic/discrete/sot2x"
+                },
+                {
+                  "name": {"zh": "SOT-223", "ch": "SOT-223", "en": "SOT-223"}, 
+                  "path": "/ic/discrete/sot223"
+                },
+                {
+                  "name": {"zh": "GBU", "ch": "GBU", "en": "GBU"}, 
+                  "path": "/ic/discrete/gbu"
+                }
+              ]
+            },
+            {
+              "name": {"zh": "UNDER LEAD", "ch": "UNDER LEAD", "en": "UNDER LEAD"}, 
+              "category": {"zh": "細項", "ch": "细项", "en": "Detail"},
+              "path": "/ic/under_lead",
+              "data": [
+                {
+                  "name": {"zh": "QFN", "ch": "QFN", "en": "QFN"}, 
+                  "path": "/ic/under_lead/qfn"
+                },
+                {
+                  "name": {"zh": "BGA", "ch": "BGA", "en": "BGA"}, 
+                  "path": "/ic/under_lead/bga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": {"zh": "LED", "ch": "LED", "en": "LED"}, 
+          "category": {"zh": "子項", "ch": "子项", "en": "Child"},
+          "path": "/led",
+          "data": [
+            {
+              "name": {"zh": "Height Power", "ch": "Height Power", "en": "Height Power"}, 
+              "path": "/led/height_power"
+            },
+            {
+              "name": {"zh": "Infrared LED and Silicon Detector", "ch": "Infrared LED and Silicon Detector", "en": "Infrared LED and Silicon Detector"}, 
+              "path": "/led/infrared_LED"
+            },
+            {
+              "name": {"zh": "Infrared Recever Module", "ch": "Infrared Recever Module", "en": "Infrared Recever Module"}, 
+              "path": "/led/infrared_recever_module"
+            },
+            {
+              "name": {"zh": "LED LAMPs", "ch": "LED LAMPs", "en": "LED LAMPs"}, 
+              "path": "/led/led_lamps"
+            },
+            {
+              "name": {"zh": "LED Lignting Components", "ch": "LED Lignting Components", "en": "LED Lignting Components"}, 
+              "path": "/led/lignting_components"
+            },
+            {
+              "name": {"zh": "Infrared Data Association", "ch": "Infrared Data Association", "en": "Infrared Data Association"}, 
+              "path": "/led/infrared_data_association"
+            },
+            {
+              "name": {"zh": "Lens Space", "ch": "Lens Space", "en": "Lens Space"}, 
+              "path": "/led/lens_space"
+            },
+            {
+              "name": {"zh": "Photo Coupler", "ch": "Photo Coupler", "en": "Photo Coupler"}, 
+              "path": "/led/photo_coupler"
+            },
+            {
+              "name": {"zh": "SMD LEDs", "ch": "SMD LEDs", "en": "SMD LEDs"}, 
+              "path": "/led/smd_leds"
+            }
+          ]
+        },
+        {
+          "name": {"zh": "RESISTOR / DIODE", "ch": "RESISTOR / DIODE", "en": "RESISTOR / DIODE"}, 
+          "category": {"zh": "子項", "ch": "子项", "en": "Child"},
+          "path": "/resistor_diode",
+          "data": [
+            {
+              "name": {"zh": "RLM", "ch": "RLM", "en": "RLM"}, 
+              "path": "/resistor_diode/rlm"
+            },
+            {
+              "name": {"zh": "RLN", "ch": "RLN", "en": "RLN"}, 
+              "path": "/resistor_diode/rln"
+            }
+          ]
+        },
+        {
+          "name": {"zh": "SIM / FLASH DRIVER", "ch": "SIM / FLASH DRIVER", "en": "SIM / FLASH DRIVER"}, 
+          "category": {"zh": "子項", "ch": "子项", "en": "Child"},
+          "path": "/sim_flash_driver",
+          "data": [
+            {
+              "name": {"zh": "MICRO SD", "ch": "MICRO SD", "en": "MICRO SD"}, 
+              "path": "/sim_flash_driver/micro_sd"
+            },
+            {
+              "name": {"zh": "SIM CARD", "ch": "SIM CARD", "en": "SIM CARD"}, 
+              "path": "/sim_flash_driver/sim_card"
+            },
+            {
+              "name": {"zh": "FLASH DRIVE", "ch": "FLASH DRIVE", "en": "FLASH DRIVE"}, 
+              "path": "/sim_flash_driver/flash_driver"
+            }
+          ]
+        }
+      ]
+    },
+    "mechanical": {
+      "name": {},
+      "category": {"zh": "分類", "ch": "分类", "en": "Category"},
+      "path": "/",
+      "data": [
+        {
+          "name": {"zh": "自動點膠固晶機", "ch": "自动点胶固晶机", "en": ""}, 
+          "category": {"zh": "子項", "ch": "子项", "en": "Child"},
+          "path": "/auto_DDB",
+          "data": [
+            {
+              "name": {"zh": "自動點膠固晶機", "ch": "自动点胶固晶机", "en": ""},
+              "path": "/auto_DDB/01"
+            },
+            {
+              "name": {"zh": "自動點膠機", "ch": "自动点胶机", "en": ""},
+              "path": "/auto_DDB/02"
+            },
+            {
+              "name": {"zh": "自動點膠機", "ch": "自动点胶机", "en": ""},
+              "path": "/auto_DDB/03"
+            },
+            {
+              "name": {"zh": "半自動點膠機", "ch": "半自动点胶机", "en": ""},
+              "path": "/auto_DDB/04"
+            }
+          ]
+        },
+        {
+          "name": {"zh": "自動排片機", "ch": "自动排片机", "en": ""}, 
+          "category": {"zh": "子項", "ch": "子项", "en": "Child"},
+          "path": "/auto_FLM",
+          "data": [
+            {
+              "name": {"zh": "自動排片機", "ch": "自动排片机", "en": ""},
+              "path": "/auto_FLM/01"
+            }
+          ]
+        },
+        {
+          "name": {"zh": "壓模機", "ch": "压模机", "en": ""}, 
+          "category": {"zh": "子項", "ch": "子项", "en": "Child"},
+          "path": "/stamping_machine",
+          "data": [
+            {
+              "name": {"zh": "壓模機", "ch": "壓模機", "en": ""},
+              "path": "/stamping_machine/01"
+            }
+          ]
+        },
+        {
+          "name": {"zh": "去膠道機", "ch": "去胶道机", "en": ""}, 
+          "category": {"zh": "子項", "ch": "子项", "en": "Child"},
+          "path": "/glue_removal",
+          "data": [
+            {
+              "name": {"zh": "白膠/黑膠打主膠道機", "ch": "白胶/黑胶打主胶道机", "en": ""},
+              "path": "/glue_removal/01"
+            }
+          ]
+        },
+        {
+          "name": {"zh": "自動去膠切筋機", "ch": "自动去胶切筋机", "en": ""}, 
+          "category": {"zh": "子項", "ch": "子项", "en": "Child"},
+          "path": "/auto_DC",
+          "data": [
+            {
+              "name": {"zh": "自動黑/白膠去殘膠切筋機", "ch": "自动黑/白胶去残胶切筋机", "en": ""},
+              "path": "/auto_DC/01"
+            },
+            {
+              "name": {"zh": "自動白/黑膠去膠切筋機", "ch": "自动白/黑胶去胶切筋机", "en": ""},
+              "path": "/auto_DC/02"
+            }
+          ]
+        },
+        {
+          "name": {"zh": "自動下單成型機", "ch": "自动下单成型机", "en": ""}, 
+          "category": {"zh": "子項", "ch": "子项", "en": "Child"},
+          "path": "/auto_OF",
+          "data": [
+            {
+              "name": {"zh": "自動彎腳成型收管機", "ch": "自动弯脚成型收管机", "en": ""},
+              "path": "/auto_OF/01"
+            },
+            {
+              "name": {"zh": "自動折彎成型收管機", "ch": "自动折弯成型收管机", "en": ""},
+              "path": "/auto_OF/02"
+            },
+            {
+              "name": {"zh": "自動折彎成型收管機", "ch": "自动折弯成型收管机", "en": ""},
+              "path": "/auto_OF/03"
+            },
+            {
+              "name": {"zh": "自動下料機", "ch": "自动下料机", "en": ""},
+              "path": "/auto_OF/04"
+            }
+          ]
+        },
+        {
+          "name": {"zh": "自動測試機", "ch": "自动测试机", "en": ""}, 
+          "category": {"zh": "子項", "ch": "子项", "en": "Child"},
+          "path": "/auto_testing",
+          "data": [
+            {
+              "name": {"zh": "自動電性測試機", "ch": "自动电性测试机", "en": ""},
+              "path": "/auto_testing/01"
+            },
+            {
+              "name": {"zh": "132BIN自動分類測試機", "ch": "132BIN自动分类测试机", "en": ""},
+              "path": "/auto_testing/02"
+            },
+            {
+              "name": {"zh": "自動測試分類機", "ch": "自动测试分类机", "en": ""},
+              "path": "/auto_testing/03"
+            },
+            {
+              "name": {"zh": "自動測試機(TESTING HANDLER)", "ch": "自动测试机(TESTING HANDLER)", "en": ""},
+              "path": "/auto_testing/04"
+            }
+          ]
+        },
+        {
+          "name": {"zh": "自動高壓測試機", "ch": "自动高压测试机", "en": ""}, 
+          "category": {"zh": "子項", "ch": "子项", "en": "Child"},
+          "path": "/auto_HPT",
+          "data": [
+            {
+              "name": {"zh": "高壓測試機", "ch": "高压测试机", "en": ""},
+              "path": "/auto_HPT/01"
+            }
+          ]
+        },
+        {
+          "name": {"zh": "自動雷刻機", "ch": "自动雷刻机", "en": ""}, 
+          "category": {"zh": "子項", "ch": "子项", "en": "Child"},
+          "path": "/auto_LEM",
+          "data": [
+            {
+              "name": {"zh": "自動雷射印碼機", "ch": "自动雷射印码机", "en": ""},
+              "path": "/auto_LEM/01"
+            },
+            {
+              "name": {"zh": "自動雷射印碼機", "ch": "自动雷射印码机", "en": ""},
+              "path": "/auto_LEM/02"
+            },
+            {
+              "name": {"zh": "IC Substrate Strip Laser Mark System", "ch": "IC Substrate Strip Laser Mark System", "en": ""},
+              "path": "/auto_LEM/03"
+            }
+          ]
+        },
+        {
+          "name": {"zh": "自動包裝機", "ch": "自动包装机", "en": ""}, 
+          "category": {"zh": "子項", "ch": "子项", "en": "Child"},
+          "path": "/auto_packaging",
+          "data": [
+            {
+              "name": {"zh": "自動包裝機", "ch": "自动包装机", "en": ""},
+              "path": "/auto_packaging/01"
+            }
+          ]
+        },
+        {
+          "name": {"zh": "手動沖模與治具", "ch": "手动冲模与治具", "en": ""}, 
+          "category": {"zh": "子項", "ch": "子项", "en": "Child"},
+          "path": "/manual_dies",
+          "data": [
+            {
+              "name": {"zh": "手動沖模", "ch": "手动冲模", "en": ""},
+              "path": "/manual_dies/01"
+            },
+            {
+              "name": {"zh": "手動治具", "ch": "手动治具", "en": ""},
+              "path": "/manual_dies/02"
+            },
+            {
+              "name": {"zh": "10噸空油壓機", "ch": "10吨空油压机", "en": ""},
+              "path": "/manual_dies/03"
+            }
+          ]
+        },
+        {
+          "name": {"zh": "自動沖壓成型一貫機", "ch": "自动冲压成型一贯机", "en": ""}, 
+          "category": {"zh": "子項", "ch": "子项", "en": "Child"},
+          "path": "/auto_SFM",
+          "data": [
+            {
+              "name": {"zh": "自動TB&FS機(含CCD外觀檢測系統)", "ch": "自动TB&FS机(含CCD外观检测系统)", "en": ""},
+              "path": "/auto_SFM/01"
+            },
+            {
+              "name": {"zh": "自動整片式後段一貫機", "ch": "自动整片式后段一贯机", "en": ""},
+              "path": "/auto_SFM/02"
+            }
+          ]
+        }
+      ]
+    }
+  }
