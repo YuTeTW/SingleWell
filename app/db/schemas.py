@@ -1,4 +1,4 @@
-from pydantic import BaseModel, EmailStr
+from pydantic import BaseModel
 
 
 class UserBase(BaseModel):
@@ -8,14 +8,14 @@ class UserBase(BaseModel):
 
 
 class LoginResultModel(UserBase):
-    email: EmailStr
+    email: str
     token_type: str
     access_token: str
     refresh_token: str
 
 
 class LoginModel(UserBase):
-    email: EmailStr
+    email: str
     password: str
 
     class Config:
@@ -28,13 +28,13 @@ class LoginModel(UserBase):
 
 
 class UserCreateModel(UserBase):
-    email: EmailStr
+    email: str
     password: str
 
 
 class UserModel(UserBase):
     id: int
-    email: EmailStr
+    email: str
     password: str
 
 

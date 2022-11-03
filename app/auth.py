@@ -6,7 +6,7 @@ from pydantic import BaseModel
 from app.db.models import User
 
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
-ACCESS_TOKEN_EXPIRE_SECONDS = 60 * 60 * 24
+ACCESS_TOKEN_EXPIRE_SECONDS = 60 * 60
 
 
 class Settings(BaseModel):

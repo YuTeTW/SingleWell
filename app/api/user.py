@@ -4,6 +4,7 @@ from sqlalchemy.orm import Session
 from app.db.schemas import *
 from app.db.database import get_db
 from app.db import crud
+from app.auth import auth_token
 from app import auth
 
 router = APIRouter()
@@ -12,7 +13,8 @@ router = APIRouter()
 # create user
 @router.post("/user", response_model=UserModel)
 def create_user(user_data: UserCreateModel,
-                db: Session = Depends(get_db)):
+                db: Session = Depends(get_db), authorize: AuthJWT = Depends()):
+    auth_token(authorize)
     if crud.get_user_by_email(db, email=user_data.email):
         raise HTTPException(status_code=400, detail="Email already registered")
     user_db = crud.create_user(db, user_data.email, user_data.password)
