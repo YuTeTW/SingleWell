@@ -1,0 +1,99 @@
+{
+  "site_map": [
+    {
+      "name": {"zh": "首頁", "ch": "首页", "en": "Home"},
+      "value": "index",
+      "data": []
+    },
+    {
+      "name": {"zh": "關於單井公司", "ch": "关于单井公司", "en": "Company"},
+      "value": "company",
+      "data": [
+        { "name": {"zh": "集團簡介", "ch": "集团简介", "en": "Company Introduction"}, "value": "company_introduction", "data": [] },
+        { "name": {"zh": "經營理念", "ch": "经营理念", "en": "Company Concept"}, "value": "company_concept", "data": [] },
+        { "name": {"zh": "企業沿革", "ch": "企业沿革", "en": "Company History"}, "value": "company_history", "data": [] },
+        { "name": {"zh": "公司組織", "ch": "公司组织", "en": "Company Organization"}, "value": "company_organization", "data": [] }
+      ]
+    },
+    {
+      "name": {"zh": "產品與服務", "ch": "产品与服务", "en": "Product"},
+      "value": "product",
+      "data": [
+        { "name": {"zh": "光電太陽能", "ch": "光电太阳能", "en": "Solar Energy"}, "value": "product_solar_energy", "data": [] },
+        { "name": {"zh": "封裝模具", "ch": "封装模具", "en": "Mold"}, "value": "product_mold", "data": [] },
+        { "name": {"zh": "自動化機械", "ch": "自动化机械", "en": "Mechanical"}, "value": "product_mechanical", "data": [] }
+      ]
+    },
+    {
+      "name": {"zh": "公司治理與社會責任", "ch": "公司治理与社会责任", "en": "Responsibility"},
+      "value": "responsibility",
+      "data": [
+        { "name": {"zh": "公司治理", "ch": "公司治理", "en": "Governance"}, "value": "responsibility_governance", "data": [] },
+        { 
+          "name": {"zh": "董事會", "ch": "董事会", "en": "Board"}, 
+          "value": "board", 
+          "data": [
+            { "name": {"zh": "董事會成員", "ch": "董事会成员", "en": "Board Member"}, "value": "responsibility_board_member", "data": [] },
+            { "name": {"zh": "董事會多元化政策及執行情況", "ch": "董事会多元化政策及执行情况", "en": "Board Policy"}, "value": "responsibility_board_policy", "data": [] }
+          ] 
+        },
+        { 
+          "name": {"zh": "功能性委員會", "ch": "功能性委员会", "en": "Committee"}, 
+          "value": "committee", 
+          "data": [
+            { "name": {"zh": "功能性委員會", "ch": "功能性委员会", "en": "Committee"}, "value": "responsibility_committee_index", "data": [] },
+            { "name": {"zh": "審計委員會", "ch": "审计委员会", "en": "Audit Committee"}, "value": "responsibility_committee_audit", "data": [] },
+            { "name": {"zh": "薪酬委員會", "ch": "薪酬委员会", "en": "Policy Committee"}, "value": "responsibility_committee_policy_salary", "data": [] }
+          ] 
+        },
+        { "name": {"zh": "內部稽核", "ch": "内部稽核", "en": "Audit"}, "value": "responsibility_audit", "data": [] },
+        { "name": {"zh": "風險管理", "ch": "风险管理", "en": "Risk Management"}, "value": "responsibility_risk_management", "data": [] },
+        { "name": {"zh": "誠信經營", "ch": "诚信经营", "en": "Honesty"}, "value": "responsibility_honesty", "data": [] },
+        { 
+          "name": {"zh": "員工關係", "ch": "员工关系", "en": "Staff"},
+          "value": "staff",
+          "data": [
+            { "name": {"zh": "人權", "ch": "人权", "en": "Human Rights"}, "value": "responsibility_staff_right", "data": [] },
+            { "name": {"zh": "職安", "ch": "職安", "en": "Staff Safe"}, "value": "responsibility_staff_safe", "data": [] },
+            { "name": {"zh": "員工薪資福利", "ch": "员工薪资福利", "en": "Staff Salary"}, "value": "responsibility_staff_salary", "data": [] }
+          ] 
+        },
+        { "name": {"zh": "永續發展", "ch": "永续发展", "en": "Sustainable Development"}, "value": "responsibility_sustainable_development", "data": [] },
+        { "name": {"zh": "公司重要規章", "ch": "公司重要规章", "en": "Regulations"}, "value": "responsibility_regulations", "data": [] }
+      ]
+    },
+    {
+      "name": {"zh": "投資人專區", "ch": "投资人专区", "en": "Investor"},
+      "value": "investor",
+      "data": [
+        { "name": {"zh": "公司基本介紹", "ch": "公司基本介绍", "en": "Introduction"}, "value": "investor_introduction", "data": [] },
+        { "name": {"zh": "每月營業報告", "ch": "每月营业报告", "en": "Monthly Report"}, "value": "investor_monthly_report", "data": [] },
+        { "name": {"zh": "財務報表", "ch": "财务报表", "en": "Financial Statements"}, "value": "investor_financial_statements", "data": [] },
+        { "name": {"zh": "公司年報", "ch": "公司年报", "en": "Annual Report"}, "value": "investor_annual_report", "data": [] },
+        { 
+          "name": {"zh": "股東專區", "ch": "股东专区", "en": "Shareholder"}, 
+          "value": "shareholder", 
+          "data": [
+            { "name": {"zh": "股東專區", "ch": "股东专区", "en": "Shareholder"}, "value": "investor_shareholder_index", "data": [] },
+            { "name": {"zh": "主要股東名單", "ch": "主要股东名单", "en": "Shareholder Member"}, "value": "investor_shareholder_member", "data": [] },
+            { "name": {"zh": "股價查詢", "ch": "股价查询", "en": "Share Price"}, "value": "investor_shareholder_share_price", "data": [] },
+            { "name": {"zh": "股東會", "ch": "股东会", "en": "Shareholder Meeting"}, "value": "investor_shareholder_meeting", "data": [] },
+            { "name": {"zh": "歷年股利分派", "ch": "历年股利分派", "en": "Shareholder Dividend"}, "value": "investor_shareholder_dividend", "data": [] }
+          ] 
+        },
+        { "name": {"zh": "法人說明會簡報", "ch": "法人说明会简报", "en": "Seminar"}, "value": "seminar", "data": [] },
+        { "name": {"zh": "利害關係人專區", "ch": "利害关系人专区", "en": "Stakes"}, "value": "stakes", "data": [] }
+      ]
+    },
+    {
+      "name": {"zh": "新聞中心", "ch": "新闻中心", "en": "News"},
+      "value": "news",
+      "data": []
+    },
+    {
+      "name": {"zh": "聯絡我們", "ch": "联络我们", "en": "Connect"},
+      "value": "connect",
+      "data": []
+    }
+  ]
+}
